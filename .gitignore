@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# MAC OS
+*.DS_Store
+
+#Ignore PWsandbox Directory and contents
+PWsandbox/**
+
 # C extensions
 *.so
 
